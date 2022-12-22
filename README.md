@@ -4,7 +4,7 @@
 
 ---
 
-###:man_technologist: About me :
+### :man_technologist: About me :
 
 I'am a Junior Full Stack Developer from Ukraine.
 
