@@ -1,8 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/A9U92RNp2bWRpKglEi/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/A9U92RNp2bWRpKglEi/giphy.gif" width="500"/>
 </div>
-
-
 
 👨🏼‍💻 About me :
 I'am a Junior Full Stack Developer from Ukraine.
