@@ -25,7 +25,3 @@ I'am a Junior Full Stack Developer from Ukraine.
 
 ---
 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IvanTymoshchuk&theme=dark&background=000000)](https://git.io/streak-stats)
-
