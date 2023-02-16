@@ -1,7 +1,7 @@
 <!-- <div id="header" align="left">
   <img src="https://media.giphy.com/media/A9U92RNp2bWRpKglEi/giphy.gif" width="200"/>
 </div> -->
-<div style="width:100%;height:0;padding-bottom:42%;position:relative;"><img src="https://giphy.com/embed/10zxDv7Hv5RF9C" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div><p><a href="https://giphy.com/gifs/loop-computer-matrix-10zxDv7Hv5RF9C">via GIPHY</a></p>
+<div id="header" align="left"><img src="https://giphy.com/embed/10zxDv7Hv5RF9C" width="100%" height="100%"></img></div>
 
 ---
 
