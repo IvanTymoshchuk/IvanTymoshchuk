@@ -1,5 +1,5 @@
 <div id="header" align="left">
-  <img src="https://giphy.com/embed/10zxDv7Hv5RF9C" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/loop-computer-matrix-10zxDv7Hv5RF9C">via GIPHY</a></p>
+  <img src="[https://giphy.com/embed/10zxDv7Hv5RF9C](https://giphy.com/gifs/loop-computer-matrix-10zxDv7Hv5RF9C)" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </div>
 
 ---
