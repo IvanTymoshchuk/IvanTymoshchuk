@@ -21,7 +21,7 @@ I'am a Junior Full Stack Developer from Ukraine.
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,sass,bem,js,nodejs,react,figma,git,vscode,jquery,babel&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,sass,js,nodejs,react,figma,git,vscode,jquery,babel&theme=light)
 
 ---
 
