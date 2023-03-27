@@ -7,7 +7,7 @@
 </p>
 <!--   my-header-img -->
 <div id="header" align="center">
-  <img src="/src/header_.png" width ="25%"/>
+  <img src="/src/header_.png" width ="100%"/>
   </div>
 <!--   my-ticker -->
 
