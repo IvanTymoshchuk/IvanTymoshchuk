@@ -6,7 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
 
-Languages : 🇺🇦 Ukrainian - Native | 🇫🇷 France - C1 | 🇬🇧 English - B1 | 🇵🇱 Polish - A2
+Languages : 🇺🇦 Ukrainian - Native | 🇫🇷 French - C1 | 🇬🇧 English - B1 | 🇵🇱 Polish - A2
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
