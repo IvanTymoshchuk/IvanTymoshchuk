@@ -21,7 +21,7 @@ Languages : 🇺🇦 Ukrainian - Native | 🇫🇷 French - C1 | 🇬🇧 Englis
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/></a>
    <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
-  <a href="https://react-redux.js.org/" > <img src="https://img.shields.io/badge/Redux-555?logo=redux&logoColor=764ABC&style=for-the-badge" alt="redux" title="redux" /></a>
+  <a href="https://react-redux.js.org/" ><img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/></a>
     <a href="https://material-ui.com/"> <img src="https://img.shields.io/badge/material_ui-555?logo=materialdesign&style=for-the-badge" alt="Material-UI" title="Material-UI" /></a>
     <a href="https://emotion.sh/docs/introduction"> <img src="https://img.shields.io/badge/emotion-555?logo=emotion&style=for-the-badge" alt="emotion" title="emotion" /></a>
     <a href="https://styled-components.com/"> <img src="https://img.shields.io/badge/styled_components-555?logo=styledcomponents&style=for-the-badge" alt="styled-components" title="styled-components" /></a>
