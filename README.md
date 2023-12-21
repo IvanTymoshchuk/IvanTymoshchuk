@@ -14,10 +14,11 @@ Languages : 🇺🇦 Ukrainian - Native | 🇫🇷 French - C1 | 🇬🇧 Englis
 
 <h2 align="left">My stack:</h2>
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-555?logo=html5&style=for-the-badge" alt="html5" title="HTML5" /></a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-555?logo=css3&logoColor=1572B6&style=for-the-badge" alt="css3" title="CSS3" /></a>
-  <a href="https://sass-lang.com"><img src="https://img.shields.io/badge/SASS-555?logo=sass&style=for-the-badge" alt="sass" title="SASS" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/Javascript-555?logo=javascript&style=for-the-badge" alt="javascript" title="javascript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/></a>
+  <a href="https://sass-lang.com"><img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/Typescript-555?logo=typescript&style=for-the-badge" alt="typescript" title="typescript" /></a>
    <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-555?logo=react&style=for-the-badge" alt="react" title="react" /></a>
   <a href="https://react-redux.js.org/" > <img src="https://img.shields.io/badge/Redux-555?logo=redux&logoColor=764ABC&style=for-the-badge" alt="redux" title="redux" /></a>
