@@ -22,11 +22,11 @@ Languages : 🇺🇦 Ukrainian - Native | 🇫🇷 French - C1 | 🇬🇧 Englis
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/></a>
    <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
   <a href="https://react-redux.js.org/" ><img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/></a>
-    <a href="https://material-ui.com/"> <img src="https://img.shields.io/badge/material_ui-555?logo=materialdesign&style=for-the-badge" alt="Material-UI" title="Material-UI" /></a>
+    <a href="https://material-ui.com/"><img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/></a>
     <a href="https://emotion.sh/docs/introduction"> <img src="https://img.shields.io/badge/emotion-555?logo=emotion&style=for-the-badge" alt="emotion" title="emotion" /></a>
     <a href="https://styled-components.com/"> <img src="https://img.shields.io/badge/styled_components-555?logo=styledcomponents&style=for-the-badge" alt="styled-components" title="styled-components" /></a>
   <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/vite-555?logo=vite&style=for-the-badge" alt="vite" title="Vite" /></a>
-  <a href="https://nodejs.org"> <img src="https://img.shields.io/badge/Node.js-555?logo=node.js&style=for-the-badge" alt="nodejs" title="Node.js" /></a>
+  <a href="https://nodejs.org"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></a>
   <a href="https://www.mongodb.com/"> <img src="https://img.shields.io/badge/Mongo_DB-555?logo=MongoDB&style=for-the-badge" alt="MongoDB" title="MongoDB" /></a>
     <a href="https://postman.com"> <img src="https://img.shields.io/badge/Postman-555?logo=postman&style=for-the-badge" alt="postman" title="Postman" /></a>
   <a href="https://www.npmjs.com/"> <img src="https://img.shields.io/badge/Npm-555?logo=npm&style=for-the-badge" alt="npm" title="NPM" /></a>
