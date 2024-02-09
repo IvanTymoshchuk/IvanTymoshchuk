@@ -98,7 +98,6 @@ Languages : 🇺🇦 Ukrainian - Native | 🇫🇷 French - C1 | 🇬🇧 Englis
       <br>jQuery
     </td>
   </tr>
- <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
@@ -112,7 +111,6 @@ Languages : 🇺🇦 Ukrainian - Native | 🇫🇷 French - C1 | 🇬🇧 Englis
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
     </td>
- </tr>
 </table>
 <br><br>
 
