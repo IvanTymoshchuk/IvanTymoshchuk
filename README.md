@@ -86,5 +86,4 @@ Languages : 🇺🇦 Ukrainian - Native | 🇫🇷 French - C1 | 🇬🇧 Englis
     </td>
 </table>
 <br><br>
-
 </div>
